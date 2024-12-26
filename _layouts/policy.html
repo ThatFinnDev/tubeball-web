@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<article class="post">
+
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+  
+  {%- if page.source -%}
+    <p>The source is available here: <a href="{{ page.source }}">{{ page.source }}</a><p/>
+  {%- endif -%}
+</article>

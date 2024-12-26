@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 106.23 122.88"
+   version="1.1"
+   sodipodi:docname="android-robot-bot-icon.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview19"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="5.2848568"
+     inkscape:cx="39.830786"
+     inkscape:cy="69.538308"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#a4c639;}.cls-2{fill:#fff;}</style>
+  </defs>
+  <title
+     id="title6">android-robot-bot</title>
+  <path
+     class="cls-1"
+     d="M86.29,39c0-11-6.33-20.66-15.79-26l5.23-9.43A2.37,2.37,0,0,0,74.8.3h0a2.37,2.37,0,0,0-3.22.92L66.22,10.9a35.84,35.84,0,0,0-26.2,0L34.65,1.22A2.36,2.36,0,0,0,31.43.3h0a2.36,2.36,0,0,0-.92,3.22L35.74,13C26.27,18.34,20,28,20,39Zm11.2,0h0a8.74,8.74,0,0,1,8.74,8.75v31a8.74,8.74,0,0,1-8.74,8.75h0a8.75,8.75,0,0,1-8.75-8.75v-31A8.75,8.75,0,0,1,97.49,39ZM8.75,39h0a8.75,8.75,0,0,1,8.75,8.75v31a8.75,8.75,0,0,1-8.75,8.75h0A8.75,8.75,0,0,1,0,78.77v-31A8.75,8.75,0,0,1,8.75,39ZM49.47,97.73v16.4a8.75,8.75,0,0,1-8.75,8.75h0A8.74,8.74,0,0,1,32,114.13V97.73H28a8,8,0,0,1-8-8V41.63H86.29V89.71a8,8,0,0,1-8,8h-4v16.4a8.75,8.75,0,0,1-8.75,8.75h0a8.75,8.75,0,0,1-8.75-8.75V97.73Z"
+     id="path8"
+     style="fill:#3f36f4;fill-opacity:1" />
+  <path
+     class="cls-2"
+     d="M39.26,24.09a1.46,1.46,0,1,0-1.45,1.46,1.45,1.45,0,0,0,1.45-1.46Z"
+     id="path10"
+     style="fill:#000000" />
+  <path
+     class="cls-2"
+     d="m 38.000186,24.09 a 0.15,0.15 0 0 0 0,-0.1 v 0 a 0.18,0.18 0 0 0 -0.21,0 0.18,0.18 0 0 0 0,0.1 0.14,0.14 0 0 0 0.15,0.15 0.18,0.18 0 0 0 0.1,0 0.15,0.15 0 0 0 0,-0.11 z m 1.81,-2 v 0 a 2.76,2.76 0 0 1 0,3.91 2.78,2.78 0 0 1 -3.92,0 v 0 a 2.77,2.77 0 1 1 3.91,-3.92 z"
+     id="path12"
+     style="fill:#000000" />
+  <path
+     class="cls-2"
+     d="M69.89,24.09a1.46,1.46,0,1,0-1.46,1.46,1.46,1.46,0,0,0,1.46-1.46Z"
+     id="path14"
+     style="fill:#000000" />
+  <path
+     class="cls-2"
+     d="m 68.570186,24.09 a 0.15,0.15 0 0 0 0,-0.1 v 0 a 0.18,0.18 0 0 0 -0.21,0 0.18,0.18 0 0 0 0,0.1 0.14,0.14 0 0 0 0.15,0.15 0.18,0.18 0 0 0 0.1,0 0.15,0.15 0 0 0 0,-0.11 z m 1.81,-2 v 0 a 2.77,2.77 0 0 1 -3.92,3.91 v 0 a 2.77,2.77 0 1 1 3.91,-3.92 z"
+     id="path16"
+     style="fill:#000000" />
+</svg>
