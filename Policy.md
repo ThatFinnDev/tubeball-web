@@ -2,7 +2,7 @@
 layout: policy
 title: Tubeball
 center-text: Tubeball Policy
-permalink: /tubeball/policy/
+permalink: /policy
 source: https://github.com/ThatFinnDev/Tubeball
 --- 
 

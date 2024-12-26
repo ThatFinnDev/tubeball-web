@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Quixx
+title: Tubeball
 email: fullcodesmail@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Quixx the game
+  You have to guide the ball through the tube and avoid the obstacles and collect coins. You can buy different appearances for the tube with the coins you collected. There are even different difficulty levels!
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://tubeball.fullcodes.thatfinn.dev" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ThatFinnDev
